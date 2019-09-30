@@ -1,0 +1,12 @@
+C:\Users\MIAU\Desktop\Light_IT_GAME\Light_IT_GAME\bin\Debug\Light_IT_GAME.exe.config
+C:\Users\MIAU\Desktop\Light_IT_GAME\Light_IT_GAME\bin\Debug\Light_IT_GAME.exe
+C:\Users\MIAU\Desktop\Light_IT_GAME\Light_IT_GAME\bin\Debug\Light_IT_GAME.pdb
+C:\Users\MIAU\Desktop\Light_IT_GAME\Light_IT_GAME\obj\Debug\Light_IT_GAME.csprojResolveAssemblyReference.cache
+C:\Users\MIAU\Desktop\Light_IT_GAME\Light_IT_GAME\obj\Debug\Light_IT_GAME.exe
+C:\Users\MIAU\Desktop\Light_IT_GAME\Light_IT_GAME\obj\Debug\Light_IT_GAME.pdb
+C:\Users\zao\Desktop\Light_IT_GAME\Light_IT_GAME\bin\Debug\Light_IT_GAME.exe.config
+C:\Users\zao\Desktop\Light_IT_GAME\Light_IT_GAME\obj\Debug\Light_IT_GAME.exe
+C:\Users\zao\Desktop\Light_IT_GAME\Light_IT_GAME\obj\Debug\Light_IT_GAME.pdb
+C:\Users\zao\Desktop\Light_IT_GAME\Light_IT_GAME\bin\Debug\Light_IT_GAME.exe
+C:\Users\zao\Desktop\Light_IT_GAME\Light_IT_GAME\bin\Debug\Light_IT_GAME.pdb
+C:\Users\zao\Desktop\Light_IT_GAME\Light_IT_GAME\obj\Debug\Light_IT_GAME.csprojResolveAssemblyReference.cache
